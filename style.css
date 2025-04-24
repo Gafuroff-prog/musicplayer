@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button{
+    background-color:cornflowerblue;
+    width: 100px;
+    height: 50px;
+    font-size: 32px;
+    position: relative;
+    left: 540px;
+    top: 400px;
+    border: none;
+    
+}
+input{
+    width: 410px;
+    height: 50px;
+    font-size: 32px;
+    position: relative;
+    left: 540px;
+    top: 200px;
+}
+span{
+    position: relative;
+    left: 300px;
+    top: 220px;
+}
+h1{
+    font-size: 68px;
+    font-weight: unset;
+    margin-left: 725px;
+    position: relative;
+    top: 200px;
+}
+h3{
+    font-size: 24px;
+    font-weight: unset;
+    margin-left: 710px;
+    position: relative;
+    top: 220px;
+}
